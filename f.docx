@@ -1,0 +1,6 @@
+Using The class Attribute
+The class attribute specifies one or more class names for an HTML element.
+
+The class name can be used by CSS and JavaScript to perform certain tasks for elements with the specified class name.
+
+In CSS, to select elements with a specific class, write a period (.) character, followed by the name of the class:
